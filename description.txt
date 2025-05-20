@@ -1,0 +1,2 @@
+A Quote Browsing Web App built with ReactJS that fetches quotes from a public API. 
+Users can explore quotes by different authors, view a single quote per author, or see all quotes from a selected author.
