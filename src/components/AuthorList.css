@@ -1,0 +1,23 @@
+.author-list {
+  margin: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+}
+
+.author-button {
+  cursor: pointer;
+  padding: 8px 16px;
+  background-color: #f0f0f0;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease, transform 0.2s;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.6);
+}
+
+.author-button:hover {
+  background-color: #dcdcdc;
+  transform: scale(1.05);
+}
